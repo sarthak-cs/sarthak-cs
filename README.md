@@ -6,6 +6,10 @@
 
 ---
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=Digital-Krishi-Officer&theme=dark) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=Face-recognition-attendance&theme=dark) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=CODSOFT&theme=dark) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=sarthak-cs.github.io&theme=dark) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=RAG_chatbot&theme=dark)
+
+---
+
 # 💫 About Me:
 🎓 CSE student with a strong interest in Python, Cybersecurity, Cloud and Web Development<br><br>🧠 Curious about how things work internally - from OS concepts to backend logic<br><br>🏗️ I like building hands-on projects rather than just following tutorials<br><br>🎯 Currently focusing on strengthening fundamentals before scaling up
 
