@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=500&speed=70&color=39D353&width=900&lines=Welcome+to+my+GitHub+👨‍💻;CSE+student+building+practical+projects;Building+projects+with+Python+and+Web;Improving+step-by-step+every+day)](https://git.io/typing-svg)
 
 ---
+## 📌 Featured Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=Digital-Krishi-Officer&theme=dark)](https://github.com/sarthak-cs/Digital-Krishi-Officer) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=Face-recognition-attendance&theme=dark)](https://github.com/sarthak-cs/Face-recognition-attendance) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=CODSOFT&theme=dark)](https://github.com/sarthak-cs/CODSOFT) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=sarthak-cs.github.io&theme=dark)](https://github.com/sarthak-cs/sarthak-cs.github.io) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=RAG_chatbot&theme=dark)](https://github.com/sarthak-cs/RAG_chatbot)
