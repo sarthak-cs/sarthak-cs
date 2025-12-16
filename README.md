@@ -6,7 +6,8 @@
 
 ---
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=Digital-Krishi-Officer&theme=dark) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=Face-recognition-attendance&theme=dark) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=CODSOFT&theme=dark) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=sarthak-cs.github.io&theme=dark) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=RAG_chatbot&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=Digital-Krishi-Officer&theme=dark)](https://github.com/sarthak-cs/Digital-Krishi-Officer) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=Face-recognition-attendance&theme=dark)](https://github.com/sarthak-cs/Face-recognition-attendance) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=CODSOFT&theme=dark)](https://github.com/sarthak-cs/CODSOFT) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=sarthak-cs.github.io&theme=dark)](https://github.com/sarthak-cs/sarthak-cs.github.io) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=RAG_chatbot&theme=dark)](https://github.com/sarthak-cs/RAG_chatbot)
 
 ---
 
