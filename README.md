@@ -12,7 +12,13 @@
 
 ---
 
-# 💫 About Me:
+## 🤝 Contributed to:
+[<img src="https://avatars.githubusercontent.com/u/179146999?s=48&v=4" height="70px">](https://github.com/hiero-ledger/hiero-sdk-python)
+[<img src="https://avatars.githubusercontent.com/u/458752?s=48&v=4" height="70px">](https://github.com/hotosm/osm-login-python)
+
+---
+
+## 💫 About Me:
 🎓 CSE student with a strong interest in Python, Cybersecurity, Cloud and Web Development<br><br>🧠 Curious about how things work internally - from OS concepts to backend logic<br><br>🏗️ I like building hands-on projects rather than just following tutorials<br><br>🎯 Currently focusing on strengthening fundamentals before scaling up
 
 ---
@@ -22,13 +28,13 @@
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sarthak-cs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sarthak-cs&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-cs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
