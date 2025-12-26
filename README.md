@@ -3,7 +3,7 @@
 ### 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=500&speed=70&color=39D353&width=900&lines=Welcome+to+my+GitHub+👨‍💻;CSE+student+building+practical+projects;Building+projects+with+Python+and+Web;Improving+step-by-step+every+day)](https://git.io/typing-svg)
-
+<!---
 ---
 ## 📌 Featured Projects
 
@@ -11,10 +11,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=sarthak-cs.github.io&theme=dark)](https://github.com/sarthak-cs/sarthak-cs.github.io) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthak-cs&repo=RAG_chatbot&theme=dark)](https://github.com/sarthak-cs/RAG_chatbot)
 
 ---
+--->
 
-## 🤝 Contributed to:
-[<img src="https://avatars.githubusercontent.com/u/179146999?s=48&v=4" height="70px">](https://github.com/hiero-ledger/hiero-sdk-python)
-[<img src="https://avatars.githubusercontent.com/u/458752?s=48&v=4" height="70px">](https://github.com/hotosm/osm-login-python)
 
 ---
 
@@ -31,6 +29,12 @@
 ## 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🤝 Contributed to:
+[<img src="https://avatars.githubusercontent.com/u/179146999?s=48&v=4" height="70px">](https://github.com/hiero-ledger/hiero-sdk-python)
+[<img src="https://avatars.githubusercontent.com/u/458752?s=48&v=4" height="70px">](https://github.com/hotosm/osm-login-python)
 
 ---
 
